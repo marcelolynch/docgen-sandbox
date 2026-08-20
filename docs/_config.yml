@@ -1,0 +1,6 @@
+title: docgen-action sandbox
+description: Throwaway project to exercise docgen-action test branches.
+baseurl: ""
+url: "https://marcelolynch.github.io/docgen-sandbox"
+repository: marcelolynch/docgen-sandbox
+theme: jekyll-theme-primer
