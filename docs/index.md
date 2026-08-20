@@ -12,3 +12,5 @@ before the changes are proposed upstream.
 The Jekyll fixtures (`Gemfile`, `Gemfile.lock`) come from
 [emilyriehl/infinity-cosmos](https://github.com/emilyriehl/infinity-cosmos),
 which hit the Ruby/lockfile incompatibility these changes address.
+
+Test 1: defaults on a pull request.
