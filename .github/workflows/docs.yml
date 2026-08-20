@@ -31,3 +31,4 @@ jobs:
         uses: marcelolynch/docgen-action@test-combined
         with:
           api-docs: false
+          ruby-version: default
